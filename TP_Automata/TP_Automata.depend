@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682847694 source:c:\users\moh\desktop\moh\legendary year\s4\tl\tp_automata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1682178910 source:c:\users\pc\documents\tp_automata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

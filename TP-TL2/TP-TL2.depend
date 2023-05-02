@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678010130 source:c:\users\moh\desktop\moh\legendary year\s4\tl\tp-tl2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
